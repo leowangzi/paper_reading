@@ -3,6 +3,7 @@
 ## generic tech
 ##### [1706.02677v2] Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour
 ##### [1701.04128v2] Understanding the Effective Receptive Field in Deep Convolutional Neural Networks
+##### [1811.11168v2] Deformable ConvNets v2: More Deformable, Better Results [论文笔记]
 
 ## detector
 ##### [1904.06493v2] Double-Head RCNN: Rethinking classification and localization for object detection
